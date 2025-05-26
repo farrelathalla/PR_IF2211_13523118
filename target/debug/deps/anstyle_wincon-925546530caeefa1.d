@@ -1,0 +1,10 @@
+C:\Users\Farrel's Laptop\Desktop\st\PR_IF2211_13523118\target\debug\deps\libanstyle_wincon-925546530caeefa1.rmeta: C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\lib.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\ansi.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\stream.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\windows.rs
+
+C:\Users\Farrel's Laptop\Desktop\st\PR_IF2211_13523118\target\debug\deps\libanstyle_wincon-925546530caeefa1.rlib: C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\lib.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\ansi.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\stream.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\windows.rs
+
+C:\Users\Farrel's Laptop\Desktop\st\PR_IF2211_13523118\target\debug\deps\anstyle_wincon-925546530caeefa1.d: C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\lib.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\ansi.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\stream.rs C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\windows.rs
+
+C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\lib.rs:
+C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\ansi.rs:
+C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\stream.rs:
+C:\Users\Farrel's\ Laptop\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.8\src\windows.rs:

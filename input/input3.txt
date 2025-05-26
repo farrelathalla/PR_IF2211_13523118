@@ -1,0 +1,8 @@
+Warehouse CustomerA CustomerB CustomerC CustomerD CustomerE CustomerF
+0 5 8 12 15 18 20
+6 0 4 9 13 16 18
+9 5 0 6 10 14 16
+13 10 7 0 8 11 14
+16 14 11 9 0 7 10
+19 17 15 12 8 0 6
+22 20 18 15 12 9 0
